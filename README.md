@@ -1,8 +1,6 @@
 # Merhaba!
 ## Aradığın şeyi bulman için sana şans diliyorum. Ama bulacağın aradığın şey olmayabilir...
-<br>
-<br>
-<br>
+
 > Evet, burası benim profilim; Hakkımda edinebileceğin bilgilerin merkezi ve tek adresi.<br><br>
 > O yüzden buradasın değil mi?<br><br>
 > Birşeyler arıyorsun ama ne olduğunu bilmiyorsun.<br><br>
