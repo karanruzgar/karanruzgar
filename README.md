@@ -1,9 +1,5 @@
-<style>
-  body{
-  background-color:black;
-  }
-</style>
-<h1 align="center">Merhaba!</h1>
+
+
 > Evet, burası benim profilim; Hakkımda edinebileceğin bilgilerin merkezi ve tek adresi.
 > O yüzden buradasın değil mi?
 > Birşeyler arıyorsun ama ne olduğunu bilmiyorsun.
