@@ -1,6 +1,6 @@
 <h1 align="center">Hoşgeldin!</h1>
-<h3 align="center">Evet... ben bir insanım</h3>
-
+<h3 align="center">Evet... burası benim profilim.</h3>
+>Ne aradığını bilmiyorum. Sanırım sen de bilmiyorsun. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanruzgar&label=Profile%20views&color=0e75b6&style=flat" alt="karanruzgar" /> </p>
 <p align="left">
 </p>
